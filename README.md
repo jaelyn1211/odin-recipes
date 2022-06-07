@@ -1,1 +1,1 @@
-
+First project ever for Odin Project and I am doing it in HTML. Honestly, struggling a little but all a learning experience. Will update once I finish the project on skills I've learned during this process & key takeaways. Im excited to begin this journey.
